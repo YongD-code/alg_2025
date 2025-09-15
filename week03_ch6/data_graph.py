@@ -1,4 +1,4 @@
-from data_city import City, five_letter_cities, make_edges
+from data_city import City, five_letter_cities,make_edges
 import random
 
 data_sets = [
